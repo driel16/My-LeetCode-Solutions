@@ -18,6 +18,15 @@
     ]
   },
   {
+    "id": 183,
+    "title": "Customers Who Never Order",
+    "title_slug": "customers-who-never-order",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 620,
     "title": "Not Boring Movies",
     "title_slug": "not-boring-movies",
