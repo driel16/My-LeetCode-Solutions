@@ -36,6 +36,15 @@
     ]
   },
   {
+    "id": 184,
+    "title": "Department Highest Salary",
+    "title_slug": "department-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 620,
     "title": "Not Boring Movies",
     "title_slug": "not-boring-movies",

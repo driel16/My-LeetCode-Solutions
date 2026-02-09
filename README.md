@@ -10,4 +10,5 @@
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | `Database` |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | `Database` |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | `Database` |
+| 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | Medium | `Database` |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | `Database` |
