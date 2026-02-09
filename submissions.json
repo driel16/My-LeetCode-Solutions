@@ -45,6 +45,15 @@
     ]
   },
   {
+    "id": 185,
+    "title": "Department Top Three Salaries",
+    "title_slug": "department-top-three-salaries",
+    "difficulty": "Hard",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 620,
     "title": "Not Boring Movies",
     "title_slug": "not-boring-movies",
