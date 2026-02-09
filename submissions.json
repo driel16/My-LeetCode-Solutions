@@ -18,6 +18,15 @@
     ]
   },
   {
+    "id": 182,
+    "title": "Duplicate Emails",
+    "title_slug": "duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 183,
     "title": "Customers Who Never Order",
     "title_slug": "customers-who-never-order",
