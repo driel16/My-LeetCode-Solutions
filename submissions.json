@@ -9,6 +9,15 @@
     ]
   },
   {
+    "id": 177,
+    "title": "Nth Highest Salary",
+    "title_slug": "nth-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 178,
     "title": "Rank Scores",
     "title_slug": "rank-scores",
