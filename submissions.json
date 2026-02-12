@@ -90,6 +90,15 @@
     ]
   },
   {
+    "id": 196,
+    "title": "Delete Duplicate Emails",
+    "title_slug": "delete-duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 620,
     "title": "Not Boring Movies",
     "title_slug": "not-boring-movies",
