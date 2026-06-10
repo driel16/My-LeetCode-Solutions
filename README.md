@@ -1,20 +1,36 @@
-# LeetCode Submissions
+# 🧠 LeetCode Practice & Interview Preparation Repository
 
-> Auto-generated with [LeetCode Synchronizer](https://github.com/dos-m0nk3y/LeetCode-Synchronizer)
+This repository is a structured collection of my solutions to LeetCode problems, focusing on **SQL, Python, and DataFrame (Pandas) operations**. It is part of my continuous effort to strengthen my problem-solving skills, coding logic, and technical interview readiness.
 
-## Contents
+---
 
-| # | Title | Difficulty | Skills |
-|---| ----- | ---------- | ------ |
-| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | `Database` |
-| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | Medium | `Database` |
-| 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | Medium | `Database` |
-| 0178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | Medium | `Database` |
-| 0180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | Medium | `Database` |
-| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | `Database` |
-| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | `Database` |
-| 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | `Database` |
-| 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | Medium | `Database` |
-| 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | Hard | `Database` |
-| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | `Database` |
-| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | `Database` |
+## 🎯 Objective
+
+The main goal of this repository is to:
+
+- Build strong fundamentals in **SQL, Python, and data manipulation**
+- Practice real **interview-style coding problems**
+- Improve **query optimization and logical thinking**
+- Develop consistency in solving algorithmic challenges
+- Prepare for **technical interviews (Software / Data / Backend roles)**
+
+---
+
+## 🛠️ Tech Stack & Skills Practiced
+
+- 🗄️ SQL (MySQL / PostgreSQL style queries)
+  - Joins, Aggregations, Subqueries
+  - Window Functions
+  - Filtering, Grouping, and Ranking
+  - Data Cleaning (DELETE, UPDATE operations)
+
+## 📁 Repository Structure
+.
+├── problems/ # Problem statements / references
+├── solutions/ # My implemented solutions
+├── submissions.json # Submission tracking data
+└── README.md
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/driel16/leetcode-solutions.git
